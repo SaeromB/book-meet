@@ -8,7 +8,7 @@ import AppRouter from "./components/Router";
 
 const App = () => {
   return <AppRouter />;
-  //수정 2021-10-10 이성윤
+  //route 수정
 };
 
 export default App;
